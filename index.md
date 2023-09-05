@@ -1,5 +1,3 @@
-## Innovations America
-
 Innovations America, LLC designs, prototypes, and licenses innovative solutions and products, worldwide. 
 
 This includes:
@@ -12,4 +10,4 @@ We provide deployable solutions to big problems -- problems that may be viewed a
 
 The most important feature of these solutions is that they are achievable with currently available technology and resources.
 
-[Contact us](mailto:info@innovationsamerica.com) for more information.
+[Email](mailto:info@innovationsamerica.com) or call [256-513-9833](tel:+12565139833) for more information.
